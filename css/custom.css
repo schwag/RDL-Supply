@@ -1,0 +1,212 @@
+/* this is a custom css stylesheet*/
+
+body{
+	font-family: Century Gothic, sans-serif;
+}
+h2{
+	color: #336666;
+}
+.officialNavigation{
+	margin: 0px;
+}
+.navbar{
+	background-color: #336666;
+	margin-top: 89px;
+}
+/*.nav .navbar-nav ul li a:hover{
+	color: #fff;
+	background-color: #336666;
+	border-bottom: 2px solid #ffffff;	
+}*/
+.navbar-inverse .navbar-nav>li>a{
+	color: #ffffff;
+}
+.navbar-inverse .navbar-toggle {
+	color: white;
+	font-weight: bold;
+	border-color: white;
+}
+.navbar-inverse .navbar-toggle:hover {
+	background-color: #336666;
+	color: #333;
+}
+.navbar-inverse .navbar-toggle .glyphicon {
+	color: white;
+}
+.navbar-inverse .navbar-toggle:hover .glyphicon {
+	color: #333;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+	color: #fff;
+	background-color: #336666;
+	border-bottom: 2px solid #ffffff;
+}
+.grayBackground{
+	background-color: #c9c9c9;
+	padding: 10px;
+}
+.whiteBackground{
+	background-color: #ffffff;
+	border-bottom: 1px solid black;
+}
+.logoBackground{
+	background-color: #ffffff;
+	margin-top: 19px;	
+}
+.headercontactInfo{
+	float: right;
+}
+.headercontactInfo a{
+	color: #650204;
+}
+.contactNumbers li{
+	float: right;
+}
+.glyphicon.glyphicon-search{
+	float: right;
+	padding: 2px;
+}
+.jumbotron{
+	margin-top: 166px;
+	background-color: #ffffff;
+	padding: 0px;
+}
+.jumbotronBackground{
+	background-color: #ffffff;
+	/*display: inline-block;*/
+}
+.carousel{
+	/*padding-bottom: 20px;*/
+}
+.carousel-indicators .active {
+	width: 12px;
+	height: 12px;
+	margin: 0;
+	background-color: #660204;
+}
+.carousel-indicators li {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin: 1px;
+	text-indent: -999px;
+	cursor: pointer;
+	background-color: #000 \9;
+	background-color: rgba(0,0,0,0);
+	border: 1px solid #660204;
+	/*border-radius: 10px;*/
+}
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	line-height: 1;
+	margin: 0 auto;
+}
+.thumbnail{
+	-webkit-box-shadow: 2px 2px 5px #444444;
+	box-shadow: 2px 2px 5px #444444;
+}
+.btn-info {
+	color: #ffffff;
+	background-color: #636664;
+	border-color: #636664;
+}
+.btn-info:hover {
+	color: #ffffff;
+	background-color: #650204;
+	border-color: #650204;
+}
+.footerBottom{
+	background-color: #303432;
+	padding-top: 10px;
+	color: #ffffff;
+	border-top: 1px solid black;
+}
+.footerSection{
+	background-color: #616865;
+	padding-top: 10px;
+	color: #ffffff;
+}
+.footerSection h4{
+	padding-left: 10px;
+}
+.footerBox{
+	background-color: #303432;
+	padding: 15px 15px 15px 15px;
+	margin: 10px 0px 20px 0px;
+}
+.footerMenu li a{
+	color: #ffffff;
+}
+.footerMenu li{
+	list-style-type: none;
+}
+.customerAssistance li a{
+	color: #ffffff;	
+}
+.customerAssistance li{
+	list-style-type: none;
+}
+.certificationRow{
+	background-color: #ffffff;
+	padding: 10px;
+	margin: 10px 0px 10px 0px;	
+	/*-moz-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	-webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	box-shadow: 5px 5px 5px rgba(68,68,68,0.6);*/
+}
+blockquote {
+	padding: 10px 20px;
+	margin: 0 0 20px;
+	font-size: 17.5px;
+	border-left: 5px solid #336666;
+}
+.sherrieBox{
+	background-color: #ffffff;
+	padding: 10px 20px 20px 30px;
+	margin: 10px 0px 10px 0px;
+}
+.sherrieBox img{
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.homeBuilding{
+	background-color: #ffffff;
+	padding: 25px 30px 25px 30px;
+	margin: 10px 0px 10px 0px;
+}
+.glyphicon-envelope{
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #336666;
+}
+.glyphicon-phone-alt{
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #336666;
+}
+
+
+/*--------------------Media Queries-----------------------*/
+
+@media (min-width: 768px){
+    .navbar-nav{
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+        float:none;
+    }
+}
