@@ -1,59 +1,8 @@
 <?php include "php/header.php";?>
 
 <body>
-                <!-- Top White Address Container -->
-                <section class="whiteBackground navbar-fixed-top">
-                    <div class="container topSocial">
-                        <span class="glyphicon glyphicon-search"></span>
-                    </div>
-                </section>
 
-                <!-- Top White Logo Container -->
-                <section class="logoBackground navbar-fixed-top">
-                    <div class="container logoSection">
-                        <header class="row">
-                            <div class="col-lg-6 col-sm-5">
-                                <a href="index.html"><img src="img/logo.png" alt="RDL Supply" class="img-responsive"></a>
-                            </div>
-                            <div class="col-lg-6 col-sm-7 headercontactInfo">
-                                <ul class="contactNumbers">
-                                    <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> 
-                                    <a href="mailto:youremailaddress">SALES@RDLSUPPLY.COM</a></li>
-                                  <li class="list-group-item"><span class="glyphicon glyphicon-phone-alt"></span> <a href="tel:214-630-3965">214.630.3965</a></li>
-                                </ul>
-                            </div>
-                        </header>
-                    </div>
-                </section>
-
-
-            <!-- Header Navigation -->
-
-        <section class="officialNavigation">
-            <div class="container">  
-                <div class="row">
-                    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
-                              <span class="sr-only">Toggle navigation</span>
-                              <span class="glyphicon glyphicon-arrow-down"></span>
-                              MENU
-                            </button>
-                        </div>
-                        <div class="collapse navbar-collapse" id="collapse">
-                            <ul class="nav navbar-nav">
-                                <li class="active"><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Products</a></li>
-                                <li><a href="#">Customer Service</a></li>
-                                <li><a href="#">Our Work</a></li>  
-                                <li><a href="#">Contact</a></li> 
-                            </ul> 
-                        </div>
-                     </nav> 
-                </div>
-            </div>
-        </section>
+<?php include "php/nav.php";?>
 
             <!-- Jumbotron -->
             <!--<div class="container">          
@@ -81,17 +30,17 @@
                 <div class="item active">
                   <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
-                      <h3>Caption Text</h3>
+                      <h3>WE WANT TO BE YOUR DOORSTOP!</h3>
                   </div>
                 </div>
                 <div class="item">
-                  <img src="img/product_example_1.png" alt="...">
+                  <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
                       <h3>Caption Text</h3>
                   </div>
                 </div>
                 <div class="item">
-                  <img src="img/product_example_1.png" alt="...">
+                  <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
                       <h3>Caption Text</h3>
                   </div>

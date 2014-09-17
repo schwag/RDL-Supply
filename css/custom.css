@@ -2,12 +2,22 @@
 
 body{
 	font-family: Century Gothic, sans-serif;
+	margin-top: 158px;
 }
 h2{
 	color: #336666;
 }
 .officialNavigation{
 	margin: 0px;
+}
+.topSocial{
+
+}
+.topSocial ul li{
+	display: inline-block;
+}
+.pull-right {
+	float: right !important;
 }
 .navbar{
 	background-color: #336666;
@@ -42,10 +52,12 @@ h2{
 	border-bottom: 2px solid #ffffff;
 }
 .grayBackground{
-	background-color: #c9c9c9;
+	/*background-color: #c9c9c9;*/
+	background-image: url("../img/green_back.png");
+    /*background-repeat: repeat-x;*/
 	padding: 10px;
 }
-.whiteBackground{
+.whitetopBackground{
 	background-color: #ffffff;
 	border-bottom: 1px solid black;
 }
@@ -67,16 +79,12 @@ h2{
 	padding: 2px;
 }
 .jumbotron{
-	margin-top: 166px;
 	background-color: #ffffff;
 	padding: 0px;
+	margin-bottom: 19px;
 }
 .jumbotronBackground{
 	background-color: #ffffff;
-	/*display: inline-block;*/
-}
-.carousel{
-	/*padding-bottom: 20px;*/
 }
 .carousel-indicators .active {
 	width: 12px;
@@ -99,6 +107,25 @@ h2{
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
 	line-height: 1;
 	margin: 0 auto;
+}
+.carousel-caption {
+	font-family: Century Gothic, sans-serif;
+	position: absolute;
+	right: -10%;
+	bottom: 215px;
+	left: 15%;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #336666;
+	text-align: center;
+	text-shadow: none;
+}
+.jumbotron p{
+	font-size: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+
 }
 .thumbnail{
 	-webkit-box-shadow: 2px 2px 5px #444444;
@@ -169,6 +196,19 @@ blockquote {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+.aboutPic img{
+	margin: 0px 0px 20px 0px;	
+}
+.aboutBox{
+	background-color: #ffffff;
+	padding: 10px 20px 20px 30px;
+	margin: 10px 0px 10px 0px;
+}
+.aboutBox p{
+	padding-bottom: 15px;
+	padding-top: 8px;
+	border-bottom: 1px solid #cccccc;
+}
 .homeBuilding{
 	background-color: #ffffff;
 	padding: 25px 30px 25px 30px;
@@ -198,10 +238,29 @@ blockquote {
 	-moz-osx-font-smoothing: grayscale;
 	color: #336666;
 }
+.glyphicon-ok{
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #336666;
+	padding-right: 5px;
+}
 
 
-/*--------------------Media Queries-----------------------*/
 
+/*-----------------------------------Media Queries---------------------------------------*/
+
+@media (max-width: 767px) {
+	.contactNumbers{
+		display: none;
+	}
+}
 @media (min-width: 768px){
     .navbar-nav{
         margin: 0 auto;
@@ -210,3 +269,5 @@ blockquote {
         float:none;
     }
 }
+
+
