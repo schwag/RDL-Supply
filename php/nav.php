@@ -48,7 +48,7 @@
                     <div class="container logoSection">
                         <header class="row">
                             <div class="col-lg-6 col-sm-5">
-                                <a href="index.html"><img src="img/logo.png" alt="RDL Supply" class="img-responsive"></a>
+                                <a href="http://localhost/RDL%20Supply/"><img src="img/logo.png" alt="RDL Supply" class="img-responsive"></a>
                             </div>
                             <div class="col-lg-6 col-sm-7 headercontactInfo">
                                 <ul class="contactNumbers">
@@ -79,7 +79,14 @@
                             <ul class="nav navbar-nav">
                                 <li><a href="http://localhost/RDL%20Supply/">Home</a></li>
                                 <li><a href="http://localhost/RDL%20Supply/about.php">About</a></li>
-                                <li><a href="#">Products</a></li>
+                                 <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Products <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#">Doors</a></li>
+                                        <li><a href="#">Frames</a></li>
+                                        <li><a href="http://localhost/RDL%20Supply/select-a-product-hardware.php">Hardware</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="#">Customer Service</a></li>
                                 <li><a href="#">Our Work</a></li>  
                                 <li><a href="#">Contact</a></li> 

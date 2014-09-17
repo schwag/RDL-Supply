@@ -1,7 +1,7 @@
     <section class="footerSection">
         <div class="container">
             <div class="row">
-                        <div class="col-lg-4 col-md-4 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                                         <h4><span class="glyphicon glyphicon-align-justify"></span> Footer Menu</h4>
                             <div class="footerBox">
                                     <ol class="footerMenu">
@@ -14,7 +14,7 @@
                                     </ol> 
                             </div>
                          </div>
-                        <div class="col-lg-4 col-md-4 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                                         <h4><span class="glyphicon glyphicon-user"></span> Customer Assistance</h4>
                             <div class="footerBox">
                                     <ol class="customerAssistance">
@@ -27,7 +27,7 @@
                                     </ol> 
                             </div>
                          </div>
-                        <div class="col-lg-4 col-md-4 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                                         <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
                             <div class="footerBox">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6700.425186218038!2d-96.883978!3d32.892547!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c2786d79b134d%3A0xdf700260d252daa!2s11240+Gemini+Ln%2C+Dallas%2C+TX+75229!5e0!3m2!1sen!2sus!4v1410883812371" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
