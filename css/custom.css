@@ -383,7 +383,19 @@ color: #C59238;
 	background-color: #C59238;
 	border: 1px solid #101010;
 }
-
+.panel-title>a {
+	color: #ffffff;
+	margin-left: 10px;
+}
+.panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";    
+    float: left; 
+    color: #ffffff; 
+}
+.panel-heading a.collapsed:after {
+    content: "\e080";
+}
 /*-----------------------------------Media Queries---------------------------------------*/
 
 @media (max-width: 767px) {
