@@ -77,8 +77,8 @@
                         </div>
                         <div class="collapse navbar-collapse" id="collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="http://localhost/RDL%20Supply/">Home</a></li>
-                                <li><a href="http://localhost/RDL%20Supply/about.php">About</a></li>
+                                <li><a href="http://localhost/RDL%20Supply/"><span class="glyphicon glyphicon-book"> Home</a></li>
+                                <li><a href="http://localhost/RDL%20Supply/about.php"><span class="glyphicon glyphicon-book"> About</a></li>
                                  <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Products <span class="caret"></span></a>
                                     <ul class="dropdown-menu" role="menu">
@@ -87,9 +87,9 @@
                                         <li><a href="http://localhost/RDL%20Supply/select-a-product-hardware.php">Hardware</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#">Customer Service</a></li>
-                                <li><a href="#">Our Work</a></li>  
-                                <li><a href="#">Contact</a></li> 
+                                <li><a href="#"><span class="glyphicon glyphicon-user"> Customer Service</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-th-large"> Our Work</a></li>  
+                                <li><a href="#"><span class="glyphicon glyphicon-phone-alt"> Contact</a></li> 
                             </ul> 
                         </div>
                      </nav> 
