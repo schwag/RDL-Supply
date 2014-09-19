@@ -70,9 +70,9 @@ h3{
 	border-bottom: 2px solid #C59238;
 }
 .grayBackground{
-	/*background-image: url("../img/green_back.png");*/
+	background-image: url("../img/green_back.png");
 	/*background-image: url("../img/tweed.png");*/
-	background-color: rgb(74, 141, 116);
+	/*background-color: rgb(74, 141, 116);*/
 	padding: 10px;
 }
 .whitetopBackground{
@@ -378,19 +378,11 @@ blockquote {
 .breadcrumb>.active {
 color: #C59238;
 }
-/*.btn-block:after {
-    content:'\A';
-    position:absolute;
-    width:100%; height:100%;
-    top:0; left:0;
-    background:rgba(0,0,0,0.6);
-    opacity:0;
-    transition: all 0.5s;
-    -webkit-transition: all 0.5s;
+.panel-default>.panel-heading {
+	color: #ffffff;
+	background-color: #C59238;
+	border: 1px solid #101010;
 }
-.btn-block:hover:after {
-    opacity:1;
-}*/
 
 /*-----------------------------------Media Queries---------------------------------------*/
 
