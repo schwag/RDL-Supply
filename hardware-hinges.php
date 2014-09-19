@@ -6,70 +6,82 @@
 
             <section class="grayBackground">
                 <div class="container">
-
-
                      <div class="row">
                         <div class="accordionSection">
                             <div class="col-md-7">
                                 <div class="productsAccordion">
-                                    <h2>Hardware/Hinges</h2>
-                                    <blockquote><b>"</b>As the owner of RDL Supply I invite you to contact me directly with any concerns, questions, or feedback you have. My door is always open.<b>"</b> <img src="img/sherriemartin.png" alt"" class="img-responsive"></blockquote>
+                                    <h3>Hardware/Hinges</h3>
 
-                                    <p><a href="#" class="btn btn-info">Click here to contact Sherrie</a></p>
-                                    <p>RDL Supply stocks more doors, accessories, and Rediframe products than any other supplier. We are a family-run, woman-owned company and we’ve been opening doors since 1981.</p>
+                                        <div class="panel-group" id="accordion">
+                                          <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                              <h4 class="panel-title">
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                                  Architectural Hinges
+                                                </a>
+                                              </h4>
+                                            </div>
+                                            <div id="collapseOne" class="panel-collapse collapse in">
+                                              <div class="panel-body">
+                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                              <h4 class="panel-title">
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                                                  Continuous Hinges
+                                                </a>
+                                              </h4>
+                                            </div>
+                                            <div id="collapseTwo" class="panel-collapse collapse">
+                                              <div class="panel-body">
+                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                              <h4 class="panel-title">
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                                  Spring Hinges
+                                                </a>
+                                              </h4>
+                                            </div>
+                                            <div id="collapseThree" class="panel-collapse collapse">
+                                              <div class="panel-body">
+                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+
                                 </div>
                             </div>
+
                             <div class="col-md-5">
-                                <div class="homeBuilding">    
-                                    <img src="img/.png" alt"" class="img-responsive">  
+                                <div class="requestquoteBox">    
+                                    <form>
+                                        <div class="form-group">
+                                            <h3>Request A Quote</h3>
+                                            <label for="inputEmail">Email</label>
+                                            <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="inputPassword">Password</label>
+                                            <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+                                        </div>
+                                        <div class="checkbox">
+                                            <label><input type="checkbox"> Remember me</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-info">Send</button>
+                                    </form>
                                 </div>           
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-
-
-    <section class="certificationRow">
-        <div class="container">
-                    <div class="row">
-                        <div class="certificationBox">
-                            <div class="col-md-2 col-md-offset-1 col-xs-6">
-                                <div class="certifications">
-                                    <img src="img/cfdi.png" alt"" class="img-responsive"> 
-                                </div>
-                            </div>
-                        </div>
-                        <div class="certificationBox">
-                            <div class="col-md-2 col-xs-6">
-                                <div class="certifications">
-                                    <img src="img/dhi.png" alt"" class="img-responsive"> 
-                                </div>
-                            </div>
-                        </div>
-                        <div class="certificationBox">
-                            <div class="col-md-2 col-xs-6">
-                                <div class="certifications">
-                                    <img src="img/cr.png" alt"" class="img-responsive"> 
-                                </div>
-                            </div>
-                        </div>
-                        <div class="certificationBox">
-                            <div class="col-md-2 col-xs-6">
-                                <div class="certifications">
-                                    <img src="img/wbe.png" alt"" class="img-responsive"> 
-                                </div>
-                            </div>
-                        </div>
-                        <div class="certificationBox">
-                            <div class="col-md-2 col-xs-6">
-                                <div class="certifications">
-                                    <img src="img/leedap.png" alt"" class="img-responsive"> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-        </div> <!-- end container -->
-    </section>
 
 <?php include "php/footer.php";?>

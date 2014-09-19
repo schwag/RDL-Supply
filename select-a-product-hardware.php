@@ -6,10 +6,8 @@
 
           <section class="grayBackground">
                 <div class="container">
-                     <div class="row">
-                        <div class="productselectionSection">
-                            <div class="col-lg-12">
-                                <div class="selectionBox">
+                    <div class="row">
+                        <div class="col-lg-12">
                                     <div class="myBreadcrumbs">
                                             <ol class="breadcrumb">
                                               <li><a href="#">Products</a></li>
@@ -17,7 +15,13 @@
                                               <li class="active">Hinges</li>
                                             </ol>
                                     </div>
-                                    <h2>Hardware</h2>
+                        </div>
+                    </div>
+                     <div class="row">
+                        <div class="productselectionSection">
+                            <div class="col-lg-12">
+                                <div class="selectionBox">
+                                    <h3>Hardware</h3>
                     <div class="row">
                         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                 <div class="thumbnail">
@@ -87,63 +91,11 @@
                                 </div>
                         </div>
                     </div><!-- end of product row -->
-                                </div>
+                                </div><!--end of selection box-->
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
-
-
-
-
-
-
-
-
-
-
-
-            <section class="certificationRow">
-                <div class="container">
-                            <div class="row">
-                                <div class="certificationBox">
-                                    <div class="col-md-2 col-md-offset-1 col-xs-6">
-                                        <div class="certifications">
-                                            <img src="img/cfdi.png" alt"" class="img-responsive"> 
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="certificationBox">
-                                    <div class="col-md-2 col-xs-6">
-                                        <div class="certifications">
-                                            <img src="img/dhi.png" alt"" class="img-responsive"> 
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="certificationBox">
-                                    <div class="col-md-2 col-xs-6">
-                                        <div class="certifications">
-                                            <img src="img/cr.png" alt"" class="img-responsive"> 
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="certificationBox">
-                                    <div class="col-md-2 col-xs-6">
-                                        <div class="certifications">
-                                            <img src="img/wbe.png" alt"" class="img-responsive"> 
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="certificationBox">
-                                    <div class="col-md-2 col-xs-6">
-                                        <div class="certifications">
-                                            <img src="img/leedap.png" alt"" class="img-responsive"> 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                </div> <!-- end container -->
             </section>
 
 <?php include "php/footer.php";?>

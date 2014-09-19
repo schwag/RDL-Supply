@@ -7,6 +7,15 @@ body{
 }
 h2{
 	color: #336666;
+	border-bottom: 1px solid #336666;
+	margin-bottom: 24px;
+	padding-bottom: 7px;
+}
+h3{
+	color: #336666;
+	border-bottom: 1px solid #336666;
+	margin-bottom: 24px;
+	padding-bottom: 7px;
 }
 .officialNavigation{
 	margin: 0px;
@@ -31,7 +40,7 @@ h2{
 }
 .navbar-inverse .navbar-nav>li>a:active {
 	color: #ffffff;
-	border-bottom: 2px solid #ffffff;
+	/*border-bottom: 2px solid #ffffff;*/
 }
 .navbar-inverse .navbar-nav>li>a{
 	color: #ffffff;
@@ -137,14 +146,14 @@ h2{
 
 }
 .thumbnail{
-	-webkit-box-shadow: 2px 2px 5px #444444;
-	box-shadow: 2px 2px 5px #444444;
+	/*-webkit-box-shadow: 2px 2px 5px #444444;
+	box-shadow: 2px 2px 5px #444444;*/
 	display: block;
 	padding: 4px;
 	margin-bottom: 20px;
 	line-height: 1.42857143;
 	background-color: #fff;
-	border: 1px solid #ddd;
+	border: 2px solid #ddd;
 	border-radius: 0px;
 	-webkit-transition: all .2s ease-in-out;
 	-o-transition: all .2s ease-in-out;
@@ -184,6 +193,7 @@ h2{
 	background-image: url("../img/tweed.png");
 	padding-top: 10px;
 	color: #ffffff;
+	border-top: 1px solid #ffffff;
 }
 .footerSection h4{
 	padding-left: 10px;
@@ -227,6 +237,8 @@ blockquote {
 	background-color: #ffffff;
 	padding: 10px 20px 20px 30px;
 	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	border: 2px solid #C59238;
 }
 .sherrieBox img{
 	float: right;
@@ -235,11 +247,22 @@ blockquote {
 }
 .productsAccordion{
 	background-color: #ffffff;
-	padding: 10px 20px 20px 30px;
+	padding: 10px 20px 20px 20px;
 	margin: 10px 0px 10px 0px;	
+	border-radius: 10px;
+	border: 2px solid #C59238;
+}
+.requestquoteBox{
+	background-color: #ffffff;
+	padding: 10px 20px 20px 20px;
+	margin: 10px 0px 10px 0px;	
+	border-radius: 10px;
+	border: 2px solid #C59238;	
 }
 .aboutPic img{
 	margin: 20px 0px 20px 0px;	
+	border-radius: 10px;
+	border: 1px solid #101010;
 }
 .aboutBox{
 	background-color: #ffffff;
@@ -256,24 +279,21 @@ blockquote {
 .selectionBox{
 	/*background-image: url("../img/tweed.png");*/
 	/*background-image: url("../img/green_back.png");*/
+	background-color: #ffffff;
 	padding: 0px 20px 10px 20px;
 	margin: 10px 0px 10px 0px;
 	border-radius: 10px;
-	border: 2px solid #ffffff;
+	border: 2px solid #C59238;
 }
 .selectionBox img{
 	margin: 0 auto;
 }
-.selectionBox h2{
-	color: #ffffff;
-	border-bottom: 2px solid white;
-	margin-bottom: 24px;
-	padding-bottom: 7px;
-}
 .homeBuilding{
-	background-color: #E4DCBB;
+	background-color: #ffffff;
 	padding: 25px 30px 25px 30px;
 	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	border: 2px solid #C59238;
 }
 .homeBuilding img{
 	margin: 0 auto;
@@ -345,10 +365,12 @@ blockquote {
 .breadcrumb {
 	color: #ffffff;
 	padding: 0px;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
+	margin-top: 5px;
 	list-style: none;
 	background-color: rgb(74, 141, 116);
 	border-radius: 4px;
+	float: right;
 }
 .breadcrumb a{
 	color: #ffffff;

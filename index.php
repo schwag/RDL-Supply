@@ -70,7 +70,7 @@
                         <div class="sherrieSection">
                             <div class="col-md-7">
                                 <div class="sherrieBox">
-                                    <h2>Sherrie’s Door is Always Open</h2>
+                                    <h3>Sherrie’s Door is Always Open</h3>
                                     <blockquote><b>"</b>As the owner of RDL Supply I invite you to contact me directly with any concerns, questions, or feedback you have. My door is always open.<b>"</b> <img src="img/sherriemartin.png" alt"" class="img-responsive"></blockquote>
 
                                     <p><a href="#" class="btn btn-info">Click here to contact Sherrie</a></p>
