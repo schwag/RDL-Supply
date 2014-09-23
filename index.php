@@ -4,18 +4,9 @@
 
 <?php include "php/nav.php";?>
 
-            <!-- Jumbotron -->
-            <!--<div class="container">          
-                 <div class="jumbotron">
-                    <img src="">
-                    <h4>Hey</h4>
-                    <p>This is where the slider will go!</p>
-                 </div>
-            </div>-->
 
 <section class="jumboSlide">
    <!-- <div class="container">-->
-        <div class="jumbotron">
 
             <div id="rdl-slider" class="carousel slide" data-ride="carousel" data-interval="5500">
               <!-- Indicators -->
@@ -31,6 +22,7 @@
                   <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
                       <h3>WE WANT TO BE YOUR DOORSTOP!</h3>
+                      <p>This is just a paragraph</p>
                   </div>
                 </div>
                 <div class="item">
@@ -55,7 +47,7 @@
                 <span class="glyphicon glyphicon-chevron-right"></span>
               </a>
             </div> <!-- Carousel -->
-        </div>
+
    <!-- </div>-->
 </section>
 
