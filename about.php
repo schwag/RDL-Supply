@@ -38,7 +38,6 @@
                                     <p><span class="glyphicon glyphicon-ok"></span> Ad errem noluisse pri, exerci numquam has ex. Enim maiestatis mei id. Cu pri noluisse adversarium, justo sensibus temporibus sed in. Mei sint democritum interesset te. Duo aeterno integre id. Vis ea ignota tacimates eloquentiam, vel ne vero molestie suscipiantur.</p>
                                     <p><span class="glyphicon glyphicon-ok"></span> Elitr everti euripidis nec ea. Ea lobortis accusamus consetetur cum, pri magna dolore cu, dicta soluta diceret cu sed. Te duis vocent forensibus duo. Cu quas prompta maluisset mea, vivendo assentior concludaturque mel id, pri ridens reprehendunt te. Fugit inani inermis qui ad.</p>
                                     <p><span class="glyphicon glyphicon-ok"></span> Elit neglegentur mediocritatem sed ea. Sed eu atqui integre, mutat illum nam eu. Mea at veniam possit, falli disputationi vis ea, per ea commodo principes. Id hinc fabulas appellantur nec, qui sumo tractatos conclusionemque ex. Vim an dicam aeterno, ipsum dolore dictas id mea, assum harum ad his. Error voluptaria intellegebat id ius, ut his suas eros eirmod.</p>
-                                    <p><span class="glyphicon glyphicon-ok"></span> Ex eam odio dicat legimus, ignota invidunt pro an. Ius tale evertitur necessitatibus ei, vix probatus atomorum in. Pro lucilius oportere id, ius vivendum qualisque te. Et eos eleifend vituperatoribus.</p>
                                 </div>
                             </div>
                         </div>

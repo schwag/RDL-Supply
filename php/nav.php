@@ -55,7 +55,15 @@
                                         <li><a href="http://localhost/RDL%20Supply/select-a-product-hardware.php">Hardware</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Customer Service</a></li>
+                                 <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-user"></span> Customer Service <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="http://localhost/RDL%20Supply/select-a-product-hardware.php">Contact the Credit Department</a></li>
+                                        <li><a href="#">Make a Payment</a></li>
+                                        <li><a href="#">Forms</a></li>
+                                        <li><a href="#">Credit Application</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="http://localhost/RDL%20Supply/our-work.php"><span class="glyphicon glyphicon-th-large"></span> Our Work</a></li>  
                                 <li><a href="http://localhost/RDL%20Supply/contact.php"><span class="glyphicon glyphicon-earphone"></span> Contact</a></li> 
                             </ul> 

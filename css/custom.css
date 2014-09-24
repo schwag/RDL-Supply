@@ -100,6 +100,7 @@ h3{
 .logoBackground{
 	background-color: #ffffff;
 	margin-top: 21px;	
+	border-top: 1px solid black;
 }
 .headercontactInfo{
 	float: right;
@@ -323,7 +324,7 @@ blockquote {
 .aboutPic img{
 	margin: 20px 0px 20px 0px;	
 	border-radius: 10px;
-	border: 1px solid #101010;
+	border: 20px solid #303432;
 }
 .aboutBox{
 	background-color: #ffffff;
@@ -491,6 +492,8 @@ color: #C59238;
 .galleryHover a:hover h4 {
     opacity:0.8;
 }
+
+/*------------------Touch Lightbox----------------------*/
 
 /*-----------------------------------Media Queries---------------------------------------*/
 
