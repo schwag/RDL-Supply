@@ -4,7 +4,7 @@
 
 <?php include "php/nav.php";?>
 
-            <section class="staffBackground">
+  <!--          <section class="staffBackground">
                 <div class="container">
                      <div class="row">
                         <div class="staffSection">
@@ -16,10 +16,19 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section>-->
 
           <section class="grayBackground">
                 <div class="container">
+                     <div class="row">
+                        <div class="staffSection">
+                            <div class="col-md-12">
+                                <div class="aboutPic">
+                                  <img src="img/staffpic.jpg" alt"" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                      <div class="row">
                         <div class="aboutSection">
                             <div class="col-md-12">

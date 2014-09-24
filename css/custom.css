@@ -85,6 +85,9 @@ h3{
 	border: 1px solid transparent;
 	border-radius: 4px;
 }
+.glyphicon-home,.glyphicon-book,.glyphicon-tags,.glyphicon-user,.glyphicon-th-large,.glyphicon-earphone{
+	padding-right: 5px;
+}
 .grayBackground{
 	background-image: url("../img/green_back.png");
 	/*background-image: url("../img/tweed.png");*/
@@ -124,7 +127,7 @@ h3{
 	width: 12px;
 	height: 12px;
 	margin: 0;
-	background-color: #660204;
+	background-color: #336666;
 }
 .carousel-indicators li {
 	display: inline-block;
@@ -135,7 +138,7 @@ h3{
 	cursor: pointer;
 	background-color: #000 \9;
 	background-color: rgba(0,0,0,0);
-	border: 1px solid #660204;
+	border: 1px solid #336666;
 	/*border-radius: 10px;*/
 }
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
@@ -266,6 +269,16 @@ blockquote {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+.contactInfobox{
+	background-color: #ffffff;
+	padding: 10px 20px 20px 30px;
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	border: 2px solid #C59238;
+}
+.contactInfobox ol li{
+	list-style-type: none;
+}
 .productsAccordion{
 	background-color: #ffffff;
 	padding: 10px 20px 20px 20px;
@@ -385,11 +398,11 @@ blockquote {
 }
 .breadcrumb {
 	color: #ffffff;
-	padding: 0px;
+	padding: 4px 8px 4px 8px;
 	margin-bottom: 0px;
 	margin-top: 5px;
 	list-style: none;
-	background-color: rgb(74, 141, 116);
+	background-color: #303432;
 	border-radius: 4px;
 	float: right;
 }
@@ -418,6 +431,38 @@ color: #C59238;
 .panel-heading a.collapsed:after {
     content: "\e080";
 }
+.jumboMap{
+	height: 315px;
+	border-bottom: 1px solid black;
+}
+
+/*----------------------------------Photo Hover----------------------*/
+.galleryimageBackground{
+	background-color: #ffffff;
+	padding: 4px 4px 0px 4px;
+	margin: 10px;
+}
+.galleryHover a { position: relative; display: inline-block }
+
+.galleryHover a h4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    background: black;
+    color: #fff;
+    opacity:0;
+    transition:1s;
+    text-align: center;
+    padding-top: 62px;
+}
+
+.galleryHover a:hover h4 {
+    opacity:0.8;
+}
+
 /*-----------------------------------Media Queries---------------------------------------*/
 
 @media (max-width: 767px) {

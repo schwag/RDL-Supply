@@ -21,20 +21,22 @@
                 <div class="item active">
                   <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
-                      <h3>WE WANT TO BE YOUR DOORSTOP!</h3>
-                      <p>This is just a paragraph</p>
+                      <!--<h3>WE WANT TO BE YOUR DOORSTOP!</h3>
+                      <p>This is just a paragraph</p>-->
                   </div>
                 </div>
                 <div class="item">
                   <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
-                      <h3>Caption Text</h3>
+                      <!--<h3>WE WANT TO BE YOUR DOORSTOP!</h3>
+                      <p>This is just a paragraph</p>-->
                   </div>
                 </div>
                 <div class="item">
                   <img src="img/slide.png" alt="...">
                   <div class="carousel-caption">
-                      <h3>Caption Text</h3>
+                      <!--<h3>WE WANT TO BE YOUR DOORSTOP!</h3>
+                      <p>This is just a paragraph</p>-->
                   </div>
                 </div>
               </div>
