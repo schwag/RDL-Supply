@@ -26,24 +26,16 @@
                                 <div class="contactInfobox">
                                     <h3>Contact & Directions</h3>
                                       <h4><span class="glyphicon glyphicon-time"></span> Showroom Hours</h4>
-                                        <ol>
-                                          <li>Monday – Thursday 7:30am – 5:00pm</li>
-                                          <li>Friday 7:30am – 4:30pm</li>
-                                        </ol>
+                                          <p>Monday – Thursday 7:30am – 5:00pm</p>
+                                          <p>Friday 7:30am – 4:30pm</p>
                                       <h4><span class="glyphicon glyphicon-map-marker"></span> Address</h4>
-                                        <ol>
-                                          <li>11240 Gemini Lane</br>
-                                            Dallas, TX  75229</li>
-                                        </ol>
-                                      <h4><span class="glyphicon glyphicon-phone-alt"></span> Phone</h4>
-                                        <ol>
-                                          <li>Phone: 214-630-3965</li>
-                                          <li>Fax: 214-560-0326</li>
-                                        </ol>
-                                      <h4><span class="glyphicon glyphicon-envelope"></span> Email</h4>
-                                        <ol>
-                                          <li><a href="mailto:youremailaddress">SALES@RDLSUPPLY.COM</a></li>
-                                        </ol>                                                                                
+                                          <p>11240 Gemini Lane</br>
+                                            Dallas, TX  75229</p>
+                                      <h4><span class="glyphicon glyphicon-phone"></span> Phone</h4>
+                                          <p>Phone: <a href="tel:214-630-3965">214.630.3965</a></p>
+                                          <p>Fax: 214-560-0326</p>
+                                      <h4><span class="glyphicon glyphicon-send"></span> Email</h4>
+                                          <p><a href="mailto:youremailaddress">SALES@RDLSUPPLY.COM</a></p>                                                                               
                                 </div>
                             </div>
 

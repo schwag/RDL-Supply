@@ -1,47 +1,15 @@
                 <!-- Top White Address Container -->
 
                 <section class="whitetopBackground navbar-fixed-top">
-                    <div class="container">
-                        <div class="row">
-                            <div class="pull-right">
-                                <div class="col-md-12 topSocial">
-                                  <ul>
-                                    <li>Follow Us</li>
-                                    <li><a href="#" target="_blank"><img src="../img/facebook.png" width="15px" height="15px" alt="" class="img-responsive"></a>yo</li>
-                                    <li><a href="#" target="_blank"><img src="../img/facebook.png" width="15px" height="15px" alt="" class="img-responsive"></a>yo</li>
-                                  </ul>
-                                </div>
+                    <div class="container whiteSocial">
+                        <div class="row topSocial">
+                            <div class="col-md-12">
+                                <p>1240 Gemini Lane Dallas , TX 75229 USA</p>
                             </div>
                         </div>
                     </div>
                 </section>
 
-
-              <!-- <section class="whiteBackground navbar-fixed-top">
-                    <div class="container">
-                        <div class="pull-right">
-                          <ul class="nav navbar-nav hidden-xs">
-                            <li><a href="#" target="_blank"><img src="" alt="Facebook Small"></a></li>
-                            <li><a href="#" target="_blank"><img src="" alt="LinkedIn Small "></a></li>
-                          </ul>
-                        </div>
-                    </div>
-                </section>-->
-
-
-
-
-                <!--<section class="whiteBackground navbar-fixed-top">
-                    <div class="container">
-                        <div class="row">
-                            <div class="topSocial">
-                                <div class="col-md-12">
-                                    <span class="glyphicon glyphicon-search"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>-->
 
                 <!-- Top White Logo Container -->
                 <section class="logoBackground navbar-fixed-top">
