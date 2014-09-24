@@ -84,7 +84,7 @@
         <div class="container">
                     <div class="row">
                         <div class="certificationBox">
-                            <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-6">
+                            <div class="col-md-2 col-md-offset-1 col-sm-offset-1 col-sm-2 col-xs-6">
                                 <div class="certifications">
                                     <img src="img/cfdi.png" alt"" class="img-responsive"> 
                                 </div>
