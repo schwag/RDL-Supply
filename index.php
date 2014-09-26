@@ -26,14 +26,14 @@
                   </div>
                 </div>
                 <div class="item">
-                  <a href="http://localhost/RDL%20Supply/hardware.php"><img src="img/slide.png" alt=""></a>
+                  <a href="http://localhost/RDL%20Supply/doors.php"><img src="img/doors_slide.png" alt=""></a>
                   <div class="carousel-caption">
                       <!--<h3>WE WANT TO BE YOUR DOORSTOP!</h3>
                       <p>This is just a paragraph</p>-->
                   </div>
                 </div>
                 <div class="item">
-                  <a href="http://localhost/RDL%20Supply/hardware.php"><img src="img/slide.png" alt=""></a>
+                  <a href="http://localhost/RDL%20Supply/frames.php"><img src="img/frames_slide.png" alt=""></a>
                   <div class="carousel-caption">
                       <!--<h3>WE WANT TO BE YOUR DOORSTOP!</h3>
                       <p>This is just a paragraph</p>-->

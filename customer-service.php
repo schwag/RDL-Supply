@@ -49,14 +49,29 @@
                                         </div>
 
                                         <div class="tab-pane" id="messages">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit ultricies pharetra. Maecenas ac sem porta, vehicula nisl sit amet, feugiat felis. Morbi at gravida arcu, sed sollicitudin dui. Vestibulum iaculis nulla in metus commodo lacinia. Phasellus suscipit porttitor leo at ornare. Curabitur quis nulla tortor. Aliquam accumsan aliquet turpis, eget pulvinar sem interdum a.</p>
 
-                                            <p>Integer vestibulum facilisis quam a iaculis. Duis elementum, nisl quis commodo tincidunt, diam nulla iaculis odio, in porta mi dolor sodales orci. Duis massa sapien, cursus id justo eget, tristique tristique nisl. Integer viverra, purus quis semper fringilla, augue tellus faucibus risus, vel iaculis elit felis eu nunc. Vivamus imperdiet aliquet mauris, eu tempus sapien pellentesque congue. Nam quis diam dui. Pellentesque mollis sem eu mi congue luctus. Aliquam fermentum vel ex eget accumsan.</p>
+                                          <div class="creditapplicationButton">
+                                            <a href="#" target="_blank"><button type="button" class="btn btn-default">Texas Resale Certificate</button></a>
+                                          </div>
+                                          <div class="creditapplicationButton">
+                                            <a href="#" target="_blank"><button type="button" class="btn btn-default">Texas Exemption Certification</button></a>
+                                          </div>
+                                          <div class="creditapplicationButton">
+                                            <a href="#" target="_blank"><button type="button" class="btn btn-default">Uniform Sales & Use Tax Certificate - Multijurisdiction</button></a>
+                                          </div>
+                                          <div class="creditapplicationButton">
+                                            <a href="#" target="_blank"><button type="button" class="btn btn-default">Job information sheet</button></a>
+                                          </div>
+                                          <div class="creditapplicationButton">
+                                            <a href="#" target="_blank"><button type="button" class="btn btn-default">Privacy policy</button></a>
+                                          </div>
 
-                                            <p>Aliquam sit amet mauris vel turpis feugiat eleifend. Etiam in rhoncus libero. Phasellus mi urna, commodo eu vulputate facilisis, semper id lorem. In hac habitasse platea dictumst. Morbi neque neque, pharetra id pretium sed, laoreet id nisl. Morbi porta, elit quis ornare fringilla, sem purus ornare risus, a tincidunt erat enim at nisl. Pellentesque sodales non eros id vestibulum. In hendrerit nulla non tellus eleifend vulputate. Sed id neque accumsan, aliquet mauris quis, tincidunt magna. Morbi sagittis lectus cursus ligula iaculis tristique. Integer vehicula ante eget tincidunt volutpat. Maecenas lectus odio, elementum in nisi et, viverra consectetur lectus.</p>
                                         </div>
 
                                         <div class="tab-pane" id="settings">
+                                          <div class="creditapplicationButton">
+                                            <a href="pdf/credit_app_8-15-13.pdf" target="_blank"><button type="button" class="btn btn-default">Click Here For Our Credit Application</button></a>
+                                          </div>
                                           <div class="faqSection">
                                               <?php include "php/faq-accordion.php";?>
                                           </div>

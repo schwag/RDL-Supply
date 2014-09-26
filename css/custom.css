@@ -386,6 +386,10 @@ blockquote {
 	padding-top: 8px;
 	border-bottom: 1px solid #cccccc;
 }
+.faqSection p{
+	padding: 0px;
+	border: none;
+}
 .selectionBox{
 	/*background-image: url("../img/tweed.png");*/
 	/*background-image: url("../img/green_back.png");*/
@@ -532,7 +536,19 @@ color: #C59238;
 .myriadCore p{
 	float: right;
 }
-
+.creditapplicationButton{
+	margin: 17px 0px 14px 0px;
+}
+.btn-default {
+	color: #ffffff;
+	background-color: #336666;
+	border: 1px solid #303432;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+	color: #ffffff;
+	background-color: #C59238;
+	border: 1px solid #303432;
+}
 /*----------------------------------Tabs------------------------------------*/
 .nav-tabs {
 	border-bottom: 1px solid #303432;

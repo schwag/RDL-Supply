@@ -53,7 +53,14 @@
                                         <button type="submit" class="btn btn-info">Send</button>
 
                                     </form>
-                                </div>           
+                                </div> 
+
+                                <div class="row">
+                                    <div class="customerserviceButton">
+                                        <p class="customerButton"><a href="http://localhost/RDL%20Supply/customer-service.php" class="btn btn-block"><span class="glyphicon glyphicon-user"></span> Customer Service <span class="serviceButton glyphicon glyphicon-chevron-right"></span></a></p>                                       
+                                    </div>
+                                </div>
+                                          
                             </div>
                         </div>
                     </div>
