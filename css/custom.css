@@ -269,12 +269,34 @@ blockquote {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.contactInfobox{
+.contactCreditbox{
 	background-color: #303432;
 	padding: 10px 30px 20px 30px;
 	margin: 10px 0px 10px 0px;
 	border-radius: 10px;
-	border: 2px solid #C59238;
+	border: 2px solid #C59238;	
+}
+.contactCreditbox h3{
+	color: #ffffff;
+	border-bottom: 1px solid #ffffff;
+}
+.contactCreditbox h4{
+	color: #ffffff;
+	background-color: rgb(87, 87, 87);
+	border-top: 1px solid #464646;
+	border-bottom: 1px solid #464646;
+	padding: 5px 0px 5px 0px;
+	border-radius: 4px;
+}
+.contactCreditbox p{
+	color: #ffffff;
+	padding: 0px;
+	margin: 0px;
+}
+.contactCreditbox a{
+	color: #C59238;
+	padding: 0px;
+	margin: 0px;
 }
 .glyphicon-time,.glyphicon-map-marker,.glyphicon-phone,.glyphicon-send{
 	color: #ffffff;
@@ -284,6 +306,13 @@ blockquote {
 .glyphicon-align-justify,.glyphicon-pushpin{
 	color: #ffffff;
 	padding-right: 5px;
+}
+.contactInfobox{
+	background-color: #303432;
+	padding: 10px 30px 20px 30px;
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	border: 2px solid #C59238;
 }
 .contactInfobox h3{
 	color: #ffffff;
@@ -324,7 +353,7 @@ blockquote {
 .aboutPic img{
 	margin: 20px 0px 20px 0px;	
 	border-radius: 10px;
-	border: 20px solid #303432;
+	border: 1px solid #303432;
 }
 .aboutBox{
 	background-color: #ffffff;
@@ -334,6 +363,18 @@ blockquote {
 	border-radius: 10px;
 }
 .aboutBox p{
+	padding-bottom: 15px;
+	padding-top: 8px;
+	border-bottom: 1px solid #cccccc;
+}
+.customerserviceBox{
+	background-color: #ffffff;
+	padding: 10px 30px 20px 30px;
+	margin: 10px 0px 10px 0px;
+	border: 2px solid #C59238;
+	border-radius: 10px;	
+}
+.customerserviceBox p{
 	padding-bottom: 15px;
 	padding-top: 8px;
 	border-bottom: 1px solid #cccccc;
@@ -410,6 +451,22 @@ blockquote {
 	color: #ffffff;
 	float: right;
 }
+.customerserviceButton{
+	margin: 10px 18px 10px 18px;
+}
+.serviceButton.glyphicon-chevron-right{
+	position: relative;
+	top: 1px;
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #ffffff;
+	float: right;
+}
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
 	color: #fff;
 	background-color: #C59238;
@@ -432,7 +489,8 @@ blockquote {
 	list-style: none;
 	background-color: #303432;
 	border-radius: 4px;
-	float: right;
+	float: left;
+	margin-left: 3px;
 }
 .breadcrumb a{
 	color: #ffffff;
@@ -449,6 +507,7 @@ color: #C59238;
 	color: #ffffff;
 	margin-left: 10px;
 	text-decoration: none;
+	padding-right: 120px;
 }
 .panel-heading a:after {
     font-family: 'Glyphicons Halflings';
@@ -465,6 +524,33 @@ color: #C59238;
 }
 .myriadCore p{
 	float: right;
+}
+
+/*----------------------------------Tabs------------------------------------*/
+.nav-tabs {
+	border-bottom: 1px solid #303432;
+}
+.nav-tabs>li>a:hover {
+	border-color: #eee #eee #ddd;
+}
+.nav-tabs.nav>li>a:hover, .nav>li>a:focus {
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #303432;
+	border-bottom: 1px solid #303432;
+}
+.nav-tabs.nav>li>a {
+	color: #333333;
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+	color: #ffffff;
+	cursor: default;
+	background-color: #C59238;
+	border: 1px solid #303432;
+	border-bottom: 1px solid #303432;
 }
 /*----------------------------------Photo Hover----------------------*/
 .galleryimageBackground{
