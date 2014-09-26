@@ -597,6 +597,8 @@ color: #C59238;
 	.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
 		color: #ffffff;
 		background-color: #303432;
+		border-right: 4px solid #ffffff;
+		border-left: 4px solid #ffffff;
 	}
 	.navbar-nav .open .dropdown-menu {
 		position: static;
@@ -622,7 +624,8 @@ color: #C59238;
 		box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
 	}
 	.navbar-collapse ul{
-
+		margin-left: 22px;
+		margin-right: 22px;
 	}
 }
 @media (min-width: 768px){
