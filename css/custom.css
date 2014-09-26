@@ -192,12 +192,12 @@ h3{
 	width: 100%;
 	color: #ffffff;
 	font-size: 16px;
-	background-color: #C59238;
+	background-color: #336666;
 	border: 1px solid #303432;
 }
 .btn-block:hover {
 	color: #ffffff;
-	background-color: #336666;
+	background-color: #C59238;
 	border: 1px solid #303432;
 }
 .footerBottom{
@@ -342,6 +342,13 @@ blockquote {
 	margin: 10px 0px 10px 0px;	
 	border-radius: 10px;
 	border: 2px solid #C59238;
+}
+.faqSection{
+	background-color: #ffffff;
+	/*padding: 10px 20px 20px 20px;*/
+	margin: 10px 0px 10px 0px;	
+	border-radius: 10px;
+	/*border: 2px solid #C59238;*/
 }
 .requestquoteBox{
 	background-color: #ffffff;
