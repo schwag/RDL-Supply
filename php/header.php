@@ -7,5 +7,9 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
+	<link href="css/lightbox.css" rel="stylesheet">
+
     <script src="js/respond.js"></script>
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
 </head>

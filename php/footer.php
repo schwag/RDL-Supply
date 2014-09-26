@@ -54,5 +54,6 @@
 <!-- javascript -->
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script type="js/custom.js"></script>
 </body>
 </html>
