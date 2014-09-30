@@ -270,26 +270,21 @@ blockquote {
 	margin-bottom: 10px;
 }
 .contactCreditbox{
-	background-color: #303432;
+	/*background-color: #303432;
 	padding: 10px 30px 20px 30px;
-	margin: 10px 0px 10px 0px;
+	margin: 10px 0px 10px 0px;*/
 	border-radius: 10px;
-	border: 2px solid #C59238;	
-}
-.contactCreditbox h3{
-	color: #ffffff;
-	border-bottom: 1px solid #ffffff;
+	/*border: 2px solid #C59238;*/	
 }
 .contactCreditbox h4{
 	color: #ffffff;
-	background-color: rgb(87, 87, 87);
-	border-top: 1px solid #464646;
-	border-bottom: 1px solid #464646;
+	background-color: rgb(156, 156, 156);
+	border: 1px solid #464646;
 	padding: 5px 0px 5px 0px;
 	border-radius: 4px;
 }
 .contactCreditbox p{
-	color: #ffffff;
+	color: #333333;
 	padding: 0px;
 	margin: 0px;
 }
