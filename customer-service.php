@@ -55,7 +55,8 @@
                                                   <a href="#" target="_blank"><button type="button" class="btn btn-default">Texas Exemption Certification</button></a>
                                                 </div>
                                                 <div class="creditapplicationButton">
-                                                  <a href="#" target="_blank"><button type="button" class="btn btn-default">Uniform Sales & Use Tax Certificate - Multijurisdiction</button></a>
+                                                  <a href="#" target="_blank"><button type="button" class="btn btn-default">Uniform Sales & Use Tax Certificate</br>
+                                                    Multijurisdiction</button></a>
                                                 </div>
                                                 <div class="creditapplicationButton">
                                                   <a href="#" target="_blank"><button type="button" class="btn btn-default">Job information sheet</button></a>

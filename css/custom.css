@@ -90,8 +90,6 @@ h3{
 }
 .grayBackground{
 	background-image: url("../img/green_back.png");
-	/*background-image: url("../img/tweed.png");*/
-	/*background-color: rgb(74, 141, 116);*/
 	padding: 10px;
 }
 .whitetopBackground{
@@ -207,7 +205,6 @@ h3{
 	border-top: 2px solid #C59238;
 }
 .footerSection{
-	/*background-color: #616865;*/
 	background-image: url("../img/tweed.png");
 	padding-top: 10px;
 	color: #ffffff;
@@ -645,6 +642,37 @@ color: #C59238;
 	.navbar-collapse ul{
 		margin-left: 22px;
 		margin-right: 22px;
+	}
+	.panel-title>a {
+		color: #ffffff;
+		margin-left: 10px;
+		text-decoration: none;
+		padding-right: 10px;
+		font-size: 11px;
+	}
+	.grayBackground{
+		background-image: url("../img/green_back.png");
+		padding: 10px 0px 10px 0px;
+	}
+	.footerSection{
+		background-image: url("../img/tweed.png");
+		padding: 10px 0px 10px 0px;
+		color: #ffffff;
+		border-top: 1px solid #ffffff;
+	}
+	.footerBox{
+		margin: 10px 0px 10px 0px;
+	}
+	.customerserviceBox{
+		padding: 10px 15px 10px 15px;
+		margin: 10px 0px 10px 0px;
+	}
+	.contactInfobox{
+		padding: 10px 15px 10px 15px;
+		margin: 10px 0px 10px 0px;
+	}
+	.jumboMap{
+		height: 215px;
 	}
 }
 @media (min-width: 768px){
