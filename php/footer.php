@@ -44,7 +44,8 @@
                     <p><small>© 2014 RDL Supply, All Rights Reserved  | 11240 Gemini Lane Dallas , TX 75229 USA</small></p>
                 </div>
                 <div class="myriadCore col-md-6">
-                    <p><small>Developed By: Myriad Core</small></p>
+                    <p><small>Developed By: <a href="http://www.myriadcore.com/" target="_blank">Myriad Core</a></small></p>
+                    
                 </div>
             </footer>
 
