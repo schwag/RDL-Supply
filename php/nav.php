@@ -4,7 +4,7 @@
                     <div class="container whiteSocial">
                         <div class="row topSocial">
                             <div class="col-md-12">
-                                <p>11240 Gemini Lane Dallas , TX 75229 USA</p>
+                                <p><small>11240 Gemini Lane Dallas , TX 75229 USA</small></p>
                             </div>
                         </div>
                     </div>

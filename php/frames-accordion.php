@@ -54,7 +54,7 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-          Specialty (STC/Galv/FEMA/Ballistic/Blast/FRP)
+          Specialty
         </a>
       </h4>
     </div>
