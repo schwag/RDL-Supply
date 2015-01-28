@@ -175,16 +175,6 @@ h3{
 	-o-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 }
-.btn-info {
-	color: #ffffff;
-	background-color: #303432;
-	border: none;
-}
-.btn-info:hover {
-	color: #ffffff;
-	background-color: #336666;
-	border-color: #303432;
-}
 .btn-block {
 	display: block;
 	width: 100%;
@@ -595,15 +585,28 @@ color: #C59238;
     opacity:0.8;
 }
 .learnMore {
-	padding: 0px 10px 10px 10px;
+
 }
 .learnMore img{
 	margin: 10px 0px 10px 0px;
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
 }
-.btn-primary{
+.caseBack{
+	background-color: #ffffff;
+	padding: 10px 20px 20px 20px;
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+}
+.btn-info {
 	color: #ffffff;
-	font-size: 16px;
+	background-color: #303432;
+	border: none;
+}
+.btn-info:hover:active:focus:visited {
+	color: #ffffff;
 	background-color: #336666;
+	border-color: #303432;
 }
 /*------------------Touch Lightbox----------------------*/
 
