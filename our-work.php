@@ -25,12 +25,30 @@
                                             <div class="modal-content">
                                               <div class="modal-header">
                                                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                                <h1 class="needsbodyHeading">ASSEMBLY</h1>
+                                                <h4 class="needsbodyHeading">Hollymead | Skilled Nursing Community</h4>
                                               </div>
                                               <div class="modal-body">
-                                                    <div>
-                                            <iframe class="adjustableVideo" width="100%" height="500" src="//www.youtube.com/embed/WT8P81oZWOI?list=UUauWBtjoD8Sbkm27cs1b1BA" frameborder="0" allowfullscreen></iframe>
-                                                    </div> 
+
+                                                <div>
+                                                    <img src="img/Hollymead-3.jpg" class="img-responsive">
+                                                </div> 
+                                                <div class="row"> 
+                                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                                        <h2>Test</h2>
+                                                    <p>Hollymead is a 112-bed facility that represents the next generation in transitional, short-term care offering around-the-clock clinical support complete with a comprehensive rehabilitation program. Our “patient-centered” philosophy shines the spotlight on the overall experience to include designing a personalized plan of care that focuses on recovery while living in a setting that promotes comfort, dignity, and well-being.</p>
+                                                    </div>       
+                                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                                        <h2>Products Inlude:</h2>
+                                                        <ul>
+                                                            <li>Hollow Metal Frames</li>
+                                                            <li>Hollow Metal Doors</li>
+                                                            <li>RediFrames – Prefinished interior frames</li>
+                                                            <li>Masonite wood doors</li>
+                                                            <li>Stile and Rail wood doors</li>
+                                                            <li>Washroom Accessories and Partitions</li>
+                                                        </ul>
+                                                    </div>       
+                                                </div>   
                                               </div>
                                               <div class="modal-footer">
                                                 <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
